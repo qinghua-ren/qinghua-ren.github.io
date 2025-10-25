@@ -18,3 +18,12 @@ author_profile: true
 
 - Teng, B., Wang, S., **Ren, Q.** et al. (2023). The cross-interval price impact model and its empirical analysis on cryptocurrency order book. Pers Ubiquit Comput, 27(4), 1585-1593.
 
+## Academic Presentations
+
+- *Counter-monotonic Risk Sharing with Heterogeneous Distortion Risk Measures*, 60th Actuarial Research Conference, Toronto, Canada. (Jul 2025)
+
+- *Counter-monotonic risk allocations and distortion risk measures*, Waterloo 5th Student Conference in Statistics, Actuarial Science, and Finance, Waterloo, Canada. (Oct 2024) 
+
+
+
+

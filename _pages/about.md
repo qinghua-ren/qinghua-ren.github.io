@@ -20,7 +20,11 @@ redirect_from:
 ## Research Interests
 -  Actuarial Science; Dependence Modeling; Quantitative Risk Management; Systemic Risk
 
+
 ## Contact
-- **Email:** [qinghua.ren@utoronto.ca](mailto:qinghua.ren@utoronto.ca) | [qinghua.ren@uwaterloo.ca](mailto:qinghua.ren@uwaterloo.ca)
+
+**Email:** [qinghua.ren@utoronto.ca](mailto:qinghua.ren@utoronto.ca)  
+**Alternative:** [qinghua.ren@uwaterloo.ca](mailto:qinghua.ren@uwaterloo.ca)
+
 
    

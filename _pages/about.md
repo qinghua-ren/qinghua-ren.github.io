@@ -10,7 +10,7 @@ redirect_from:
 
 ## Employment
 - **Postdoctoral Fellow**, York University and University of Toronto, July 2026–Present  
-  Supervisors: [Prof. Edward Furman](https://www.yorku.ca/science/profiles/faculty/edward-furman/) and and [Prof. Silvana Pesenti](https://pesenti.utstat.utoronto.ca/)
+  Supervisors: [Prof. Edward Furman](https://www.yorku.ca/science/profiles/faculty/edward-furman/) and [Prof. Silvana Pesenti](https://pesenti.utstat.utoronto.ca/)
 
 ## Education
 - Ph.D. in Actuarial Science and Quantitative Finance - University of Waterloo (Supervisors: [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Mario Ghossoub](https://uwaterloo.ca/scholar/mghossou)), 2022-2026

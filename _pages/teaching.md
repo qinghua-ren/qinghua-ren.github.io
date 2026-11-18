@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Course Instructor at University of Toronto
+
+- ACT230H1F (Fall 2026) - Mathematics of Finance for Non-Actuaries
+
+  
 ## Teaching Assistant at University of Waterloo
 
   - MTHEL 131 (Winter 2025) -  Introduction to Actuarial Practice
